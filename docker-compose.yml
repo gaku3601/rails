@@ -2,9 +2,7 @@ version: '3'
 
 services:
     rails:
-        build:
-            context: .
-            dockerfile: Dockerfile
+        image: gaku3601/rails:dev1.0
         ports:
             - "3000:3000"
         links:
