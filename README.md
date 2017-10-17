@@ -1,3 +1,5 @@
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/gaku3601/rails/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg)](https://hub.docker.com/r/gaku3601/rails/)
 # Overview
 This Docker Container give you Ruby on Rails development environment.  
 If You use this Dockerfile ,You can get it that Ruby on Rails environment to easy.  
